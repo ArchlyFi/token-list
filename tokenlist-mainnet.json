@@ -6,6 +6,12 @@
   "tokens": [
     {
       "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
+      "name": "Wrapped TLOS",
+      "symbol": "WTLOS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg"
+    },{
+      "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
       "name": "Staked TLOS",
       "symbol": "STLOS",
       "decimals": 18,
