@@ -65,6 +65,12 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/Y365.png"
     },{
+      "address": "0x34f94EaDBba78C784431a331EC683ce2efb9F838",
+      "name": "X365",
+      "symbol": "X365",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/X365.png"
+    },{
       "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
       "name": "Positron",
       "symbol": "PE",
