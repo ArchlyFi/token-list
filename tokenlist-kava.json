@@ -1,0 +1,38 @@
+{
+  "name": "Archly Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
+  "keywords": ["Archly", "Arc", "DeFi"],
+  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png"
+    },{
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+    },{
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png"
+    },{
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

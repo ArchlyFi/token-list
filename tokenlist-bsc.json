@@ -1,0 +1,38 @@
+{
+  "name": "Archly Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
+  "keywords": ["Archly", "Arc", "DeFi"],
+  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xb6c53431608e626ac81a9776ac3e999c5556717c",
+      "name": "Telos",
+      "symbol": "TLOS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg"
+    },{
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png"
+    },{
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+    },{
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
