@@ -5,7 +5,7 @@
   "timestamp": "2023-01-03T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
+      "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
@@ -19,7 +19,7 @@
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png"
     },
     {
-      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai",
       "symbol": "DAI",
       "decimals": 18,
