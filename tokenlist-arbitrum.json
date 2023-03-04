@@ -15,7 +15,7 @@
       "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 6,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png"
     },
     {
