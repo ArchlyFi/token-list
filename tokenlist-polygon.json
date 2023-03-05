@@ -28,6 +28,12 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png"
+    },{
+      "address": "0x03Ee315149E2F769E25121aB3b21515ED9679BD5",
+      "name": "X365",
+      "symbol": "X365",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/X365.png"
     }
   ],
   "version": {
