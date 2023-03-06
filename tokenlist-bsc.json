@@ -34,6 +34,12 @@
       "symbol": "X365",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/X365.png"
+    },{
+      "address": "0xA8CD6E4Bf45724d3ac27f9e31E47Ba4e399A7b52",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png"
     }
   ],
   "version": {

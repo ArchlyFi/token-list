@@ -28,6 +28,12 @@
       "symbol": "OP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OP.png"
+    },{
+      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png"
     }
   ],
   "version": {

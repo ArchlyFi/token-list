@@ -30,6 +30,12 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png"
+    },{
+      "address": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png"
     }
   ],
   "version": {
