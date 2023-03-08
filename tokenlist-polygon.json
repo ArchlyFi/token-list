@@ -40,6 +40,12 @@
       "symbol": "TAROT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png"
+    },{
+      "address": "0xC2C52FF5134596f5FF1b1204d3304228f2432836",
+      "name": "Oath",
+      "symbol": "OATH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png"
     }
   ],
   "version": {
