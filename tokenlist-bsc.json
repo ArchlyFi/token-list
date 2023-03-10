@@ -52,6 +52,12 @@
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png"
+    },{
+      "address": "0xE0eCab4441E545E74Df80519e7362865bFb305cb",
+      "name": "Y365",
+      "symbol": "Y365",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/Y365.png"
     }
   ],
   "version": {
