@@ -48,6 +48,12 @@
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png"
+    },{
+      "address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+      "name": "Layer2DAO",
+      "symbol": "L2DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/L2DAO.png"
     }
   ],
   "version": {
