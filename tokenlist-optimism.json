@@ -52,6 +52,12 @@
       "symbol": "L2DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/L2DAO.png"
+    },{
+      "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+      "name": "Dola USD",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOLA.png"
     }
   ],
   "version": {

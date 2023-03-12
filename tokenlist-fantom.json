@@ -52,6 +52,18 @@
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png"
+    },{
+      "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+      "name": "Inverse DAO",
+      "symbol": "INV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/INV.jpg"
+    },{
+      "address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
+      "name": "Dola USD",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOLA.png"
     }
   ],
   "version": {

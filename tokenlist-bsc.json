@@ -64,6 +64,12 @@
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BUSD.png"
+    },{
+      "address": "0x2F29Bc0FFAF9bff337b31CBe6CB5Fb3bf12e5840",
+      "name": "Dola USD",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOLA.png"
     }
   ],
   "version": {
