@@ -24,8 +24,8 @@
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
     },{
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-      "name": "Ethereum",
-      "symbol": "ETH",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png"
     },{
