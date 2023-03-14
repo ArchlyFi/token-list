@@ -58,6 +58,12 @@
       "symbol": "DOLA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOLA.png"
+    },{
+      "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+      "name": "Liquity USD",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LUSD.png"
     }
   ],
   "version": {

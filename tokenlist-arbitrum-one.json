@@ -54,6 +54,12 @@
       "symbol": "L2DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/L2DAO.png"
+    },{
+      "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+      "name": "Liquity USD",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LUSD.png"
     }
   ],
   "version": {
