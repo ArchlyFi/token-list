@@ -64,6 +64,12 @@
       "symbol": "LUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LUSD.png"
+    },{
+      "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+      "name": "Elk",
+      "symbol": "ELK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png"
     }
   ],
   "version": {
