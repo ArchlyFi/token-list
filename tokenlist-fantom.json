@@ -70,6 +70,12 @@
       "symbol": "ELK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png"
+    },{
+      "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
     }
   ],
   "version": {
