@@ -78,6 +78,12 @@
       "symbol": "ARB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ARB.png"
+    },{
+      "address": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
+      "name": "YieldFarming Index",
+      "symbol": "YFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/YFX.png"
     }
   ],
   "version": {
