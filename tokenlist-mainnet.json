@@ -92,13 +92,13 @@
       "address": "0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64",
       "name": "Charm Dojo",
       "symbol": "KARMA",
-      "decimals": 4,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/KARMA.svg"
     },{
       "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
       "name": "OmniDex Token",
       "symbol": "CHARM",
-      "decimals": 4,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/CHARM.svg"
     }
   ],
