@@ -82,6 +82,18 @@
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+    },{
+      "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+      "name": "USD+",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USD_PLUS.png.png"
+    },{
+      "address": "0x2952beb1326acCbB5243725bd4Da2fC937BCa087",
+      "name": "Wrapped USDR",
+      "symbol": "wUSDR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png"
     }
   ],
   "version": {

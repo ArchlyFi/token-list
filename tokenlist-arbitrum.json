@@ -30,6 +30,18 @@
       "symbol": "ARB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ARB.png"
+    },{
+      "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+      "name": "USD+",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USD_PLUS.png.png"
+    },{
+      "address": "0xDDc0385169797937066bBd8EF409b5B3c0dFEB52",
+      "name": "Wrapped USDR",
+      "symbol": "wUSDR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png"
     }
   ],
   "version": {

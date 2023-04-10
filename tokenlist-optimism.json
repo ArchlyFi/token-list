@@ -70,6 +70,18 @@
       "symbol": "ELK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png"
+    },{
+      "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+      "name": "USD+",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USD_PLUS.png.png"
+    },{
+      "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+      "name": "Wrapped USDR",
+      "symbol": "wUSDR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png"
     }
   ],
   "version": {
