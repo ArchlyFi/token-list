@@ -58,6 +58,12 @@
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+    },{
+      "address": "0x443aB8d6Ab303Ce28f9031BE91c19c6B92e59C8a",
+      "name": "Toreus.Finance Protocol",
+      "symbol": "TORE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TORE.png"
     }
   ],
   "version": {
