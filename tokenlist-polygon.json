@@ -76,6 +76,54 @@
       "symbol": "USDR",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png"
+    },{
+      "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+      "name": "Mai Stablecoin",
+      "symbol": "miMATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png"
+    },{
+      "address": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRXETH.png"
+    },{
+      "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+      "name": "DEI",
+      "symbol": "DEI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DEI.png"
+    },{
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png"
+    },{
+      "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WSTETH.png"
+    },{
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png"
+    },{
+      "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+      "name": "Staked MATIC",
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/STMATIC.png"
+    },{
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png"
     }
   ],
   "version": {

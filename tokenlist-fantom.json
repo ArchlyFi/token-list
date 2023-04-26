@@ -76,6 +76,36 @@
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+    },{
+      "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png"
+    },{
+      "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+      "name": "DEI",
+      "symbol": "DEI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DEI.png"
+    },{
+      "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png"
+    },{
+      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png"
+    },{
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png"
     }
   ],
   "version": {

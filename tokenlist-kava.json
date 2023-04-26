@@ -64,6 +64,12 @@
       "symbol": "TORE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TORE.png"
+    },{
+      "address": "0xb84Df10966a5D7e1ab46D9276F55d57bD336AFC7",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png"
     }
   ],
   "version": {

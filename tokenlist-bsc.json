@@ -94,6 +94,42 @@
       "symbol": "wUSDR",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png"
+    },{
+      "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png"
+    },{
+      "address": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRXETH.png"
+    },{
+      "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+      "name": "DEI",
+      "symbol": "DEI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DEI.png"
+    },{
+      "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png"
+    },{
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png"
+    },{
+      "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+      "name": "Liquid Staking BNB",
+      "symbol": "BNBx",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BNBX.png"
     }
   ],
   "version": {
