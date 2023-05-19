@@ -106,6 +106,12 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png"
+    },{
+      "address": "0x8EDA53A05002440818A2d089Ec293d94Fda17941",
+      "name": "TVestige",
+      "symbol": "TV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TV.png"
     }
   ],
   "version": {
