@@ -1,0 +1,44 @@
+{
+  "name": "Archly Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
+  "keywords": ["Archly", "Arc", "DeFi"],
+  "timestamp": "2023-08-05T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/CBETH.png"
+    },{
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BASEUSDC.png"
+    },{
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png"
+    },{
+      "address": "0x5e06eA564efcB3158a85dBF0B9E017cb003ff56f",
+      "name": "USDM Stablecoin",
+      "symbol": "USDM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDM.png"
+    },{
+      "address": "0x2F3b1A07E3eFb1fCc64BD09b86bD0Fa885D93552",
+      "name": "Meridian Stability Token",
+      "symbol": "MST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MST.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
