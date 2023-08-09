@@ -34,6 +34,12 @@
       "symbol": "MST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MST.png"
+    },{
+      "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png"
     }
   ],
   "version": {
