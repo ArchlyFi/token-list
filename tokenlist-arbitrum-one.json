@@ -69,7 +69,7 @@
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/AXLUSDC.svg"
     },{
       "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
       "name": "Arbitrum",

@@ -57,7 +57,7 @@
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/AXLUSDC.svg"
     },{
       "address": "0x443aB8d6Ab303Ce28f9031BE91c19c6B92e59C8a",
       "name": "Toreus.Finance Protocol",
