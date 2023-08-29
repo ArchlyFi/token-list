@@ -114,6 +114,12 @@
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TV.png"
     },{
       "address": "0xEb96b213fa59aCb95344c24e539f45a63C2f6bEA",
+      "name": "Wrapped TVestige (old)",
+      "symbol": "WTVold",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WTV.png"
+    },{
+      "address": "0x042b1131089f4ab50fa7fd61e2D59269E529029f",
       "name": "Wrapped TVestige",
       "symbol": "WTV",
       "decimals": 18,

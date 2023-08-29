@@ -160,6 +160,12 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png"
+    },{
+      "address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
+      "name": "Oath",
+      "symbol": "OATH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png"
     }
   ],
   "version": {
