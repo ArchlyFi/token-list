@@ -2,74 +2,95 @@
   "name": "Archly Token List",
   "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
   "keywords": ["Archly", "Arc", "DeFi"],
-  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tags": {
+    "dex": {
+      "name": "Archly DEX",
+      "description": "Tokens that are available on the Archly DEX"
+    },
+    "road": {
+      "name": "Archly Rainbow Road",
+      "description": "Tokens that are available on the Rainbow Road"
+    }
+  },
+  "timestamp": "2023-09-28T00:00:00+00:00",
   "tokens": [
     {
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
+      "tags": ["dex"]
     },{
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
+      "tags": ["dex"]
     },{
       "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png",
+      "tags": ["dex"]
     },{
       "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
+      "tags": ["dex"]
     },{
       "address": "0x165DBb08de0476271714952C3C1F068693bd60D7",
       "name": "Tarot",
       "symbol": "TAROT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png",
+      "tags": ["dex"]
     },{
       "address": "0x7D3B448c1242b563c65e8DAfCc13557c3069B5b6",
       "name": "Oath",
       "symbol": "OATH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png",
+      "tags": ["dex"]
     },{
       "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png",
+      "tags": ["dex"]
     },{
       "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
       "name": "Elk",
       "symbol": "ELK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png",
+      "tags": ["dex"]
     },{
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/AXLUSDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/AXLUSDC.svg",
+      "tags": ["dex"]
     },{
       "address": "0x443aB8d6Ab303Ce28f9031BE91c19c6B92e59C8a",
       "name": "Toreus.Finance Protocol",
       "symbol": "TORE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TORE.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TORE.png",
+      "tags": ["dex"]
     },{
       "address": "0xb84Df10966a5D7e1ab46D9276F55d57bD336AFC7",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png",
+      "tags": ["dex"]
     }
   ],
   "version": {

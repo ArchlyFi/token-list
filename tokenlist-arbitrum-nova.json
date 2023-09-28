@@ -2,34 +2,48 @@
   "name": "Archly Token List",
   "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
   "keywords": ["Archly", "Arc", "DeFi"],
-  "timestamp": "2023-01-03T00:00:00+00:00",
+  "tags": {
+    "dex": {
+      "name": "Archly DEX",
+      "description": "Tokens that are available on the Archly DEX"
+    },
+    "road": {
+      "name": "Archly Rainbow Road",
+      "description": "Tokens that are available on the Rainbow Road"
+    }
+  },
+  "timestamp": "2023-09-28T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
+      "tags": ["dex"]
     },
     {
       "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
+      "tags": ["dex"]
     },
     {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png",
+      "tags": ["dex"]
     },{
       "address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ARB.png"
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ARB.png",
+      "tags": ["dex"]
     }
   ],
   "version": {
