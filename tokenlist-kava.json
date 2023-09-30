@@ -91,6 +91,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png",
       "tags": ["dex"]
+    },{
+      "address": "0x02e47D464c3bB564964fce162e6c8F38eA744f5a",
+      "name": "TVestige",
+      "symbol": "TV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TV.png",
+      "tags": ["dex"]
     }
   ],
   "version": {
