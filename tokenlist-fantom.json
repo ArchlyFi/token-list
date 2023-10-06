@@ -121,6 +121,13 @@
       "tags": ["dex"]
     },{
       "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "name": "Chainlink (bridged)",
+      "symbol": "WLINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
+      "tags": ["dex"]
+    },{
+      "address": "0x6F43FF82CCA38001B6699a8AC47A2d0E66939407",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
