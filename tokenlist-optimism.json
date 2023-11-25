@@ -20,147 +20,147 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x4200000000000000000000000000000000000042",
       "name": "Optimism",
       "symbol": "OP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OP.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
       "name": "Tarot",
       "symbol": "TAROT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
       "name": "Oath",
       "symbol": "OATH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
       "name": "Layer2DAO",
       "symbol": "L2DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/L2DAO.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
       "name": "Dola USD",
       "symbol": "DOLA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOLA.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
       "name": "Liquity USD",
       "symbol": "LUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LUSD.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
       "name": "Elk",
       "symbol": "ELK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
       "name": "USD+",
       "symbol": "USD+",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USD_PLUS.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
       "name": "Wrapped USDR",
       "symbol": "wUSDR",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
       "name": "Frax Ether",
       "symbol": "frxETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRXETH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WSTETH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
       "name": "Synth sUSD",
       "symbol": "sUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SUSD.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/RETH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     }
   ],
   "version": {

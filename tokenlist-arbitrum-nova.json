@@ -20,7 +20,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },
     {
       "address": "0x1d05e4e72cD994cdF976181CfB0707345763564d",
@@ -28,7 +28,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },
     {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -36,14 +36,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ARB.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     }
   ],
   "version": {

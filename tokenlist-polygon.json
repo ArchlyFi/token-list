@@ -20,154 +20,154 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "name": "USD Coin (PoS)",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x03Ee315149E2F769E25121aB3b21515ED9679BD5",
       "name": "X365",
       "symbol": "X365",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/X365.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xd23Ed8cA350CE2631F7EcDC5E6bf80D0A1DeBB7B",
       "name": "Tarot",
       "symbol": "TAROT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xC2C52FF5134596f5FF1b1204d3304228f2432836",
       "name": "Oath",
       "symbol": "OATH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
       "name": "Elk",
       "symbol": "ELK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
       "name": "USD+",
       "symbol": "USD+",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USD_PLUS.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xb5DFABd7fF7F83BAB83995E72A52B97ABb7bcf63",
       "name": "Real USD",
       "symbol": "USDR",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
       "name": "Mai Stablecoin",
       "symbol": "miMATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xEe327F889d5947c1dc1934Bb208a1E792F953E96",
       "name": "Frax Ether",
       "symbol": "frxETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRXETH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
       "name": "DEI",
       "symbol": "DEI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DEI.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WSTETH.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0xb0897686c545045aFc77CF20eC7A532E3120E0F1",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
       "name": "Staked MATIC",
       "symbol": "stMATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/STMATIC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "name": "Dai",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DAI.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x02e47D464c3bB564964fce162e6c8F38eA744f5a",
       "name": "TVestige",
       "symbol": "TV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TV.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     },{
       "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex"]
+      "tags": ["dex", "dex2"]
     }
   ],
   "version": {
