@@ -19,7 +19,7 @@
       "name": "Telos",
       "symbol": "TLOS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TLOS.png",
       "tags": ["dex", "dex2"]
     },{
       "address": "0x55d398326f99059fF775485246999027B3197955",

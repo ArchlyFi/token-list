@@ -19,7 +19,7 @@
       "name": "Staked TLOS",
       "symbol": "STLOS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/STLOS.png",
       "tags": ["dex", "dex2"]
     },{
       "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
@@ -138,28 +138,28 @@
       "name": "LayerZero USD Coin",
       "symbol": "lzUSDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOUGE.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
       "tags": ["dex2"]
     },{
       "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
       "name": "LayerZero Tether USD",
       "symbol": "lzUSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOUGE.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
       "tags": ["dex2"]
     },{
       "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
       "name": "LayerZero Bitcoin",
       "symbol": "lzBTCb",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOUGE.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BTC.png",
       "tags": ["dex2"]
     },{
       "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
       "name": "LayerZero Ether",
       "symbol": "lzETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOUGE.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png",
       "tags": ["dex2"]
     },{
       "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
