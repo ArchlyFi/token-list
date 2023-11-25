@@ -139,7 +139,7 @@
       "symbol": "DEI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DEI.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex"]
     },{
       "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
       "name": "Frax",
