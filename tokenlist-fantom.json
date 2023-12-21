@@ -161,6 +161,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WTV.png",
       "tags": ["dex", "dex2"]
+    },{
+      "address": "0xA888241e88bA6b4F006ec8Db92921052451e3059",
+      "name": "Woomy",
+      "symbol": "WOOMY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WOOMY.jpg",
+      "tags": ["dex2"]
     }
   ],
   "version": {
