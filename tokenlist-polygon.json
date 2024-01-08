@@ -24,7 +24,7 @@
     },{
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "name": "USD Coin (PoS)",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
       "tags": ["dex", "dex2"]
