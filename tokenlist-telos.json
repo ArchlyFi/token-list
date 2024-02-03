@@ -175,6 +175,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDM.png",
       "tags": ["dex2"]
+    },{
+      "address": "0x568524DA340579887db50Ecf602Cd1BA8451b243",
+      "name": "Meridian Stability Token",
+      "symbol": "MST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MST.png",
+      "tags": ["dex2"]
     }
   ],
   "version": {
