@@ -168,6 +168,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/CRYTTER.jpg",
       "tags": ["dex2"]
+    },{
+      "address": "0xDAfc45a82C3681D857c6AE36227998190a9B6798",
+      "name": "KINDNESS FOR THE SOUL",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SOUL.png",
+      "tags": ["dex2"]
     }
   ],
   "version": {
