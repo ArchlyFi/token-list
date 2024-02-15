@@ -19,11 +19,18 @@
   "timestamp": "2024-02-15T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
+      "tags": ["dex2"]
+    },{
+      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
       "tags": ["dex2"]
     }
   ],
