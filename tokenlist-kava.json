@@ -109,6 +109,13 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
       "tags": ["dex2"]
+    },{
+      "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+      "name": "Annex",
+      "symbol": "ANN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ANN.png",
+      "tags": ["dex2"]
     }
   ],
   "version": {
