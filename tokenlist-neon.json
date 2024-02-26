@@ -32,6 +32,20 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
       "tags": ["dex2"]
+    },{
+      "address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SOL.png",
+      "tags": ["dex2"]
+    },{
+      "address": "0xD4B6520f7Fb78E1EE75639F3376c581a71bcdb0E",
+      "name": "Bonk",
+      "symbol": "BONK",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BONK.svg",
+      "tags": ["dex2"]
     }
   ],
   "version": {
