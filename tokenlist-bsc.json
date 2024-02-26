@@ -186,6 +186,20 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/CHEX.png",
       "tags": ["dex2"]
+    },{
+      "address": "0xeCbcE2c13d3A1248deBfD23DCc0558b495916756",
+      "name": "DRIPX Token",
+      "symbol": "DRIPX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DRIPX.jpg",
+      "tags": ["dex2"]
+    },{
+      "address": "0xF30224eB7104aca47235beb3362E331Ece70616A",
+      "name": "Wrapped Drip",
+      "symbol": "WDRIP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WDRIP.jpg",
+      "tags": ["dex2"]
     }
   ],
   "version": {
