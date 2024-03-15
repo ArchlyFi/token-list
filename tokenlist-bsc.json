@@ -200,6 +200,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WDRIP.jpg",
       "tags": ["dex2"]
+    },{
+      "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FLOKI.png",
+      "tags": ["dex2"]
     }
   ],
   "version": {
