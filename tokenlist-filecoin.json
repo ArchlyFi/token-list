@@ -18,6 +18,14 @@
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
   "tokens": [
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/AXLUSDC.svg",
+      "tags": ["dex2"]
+    }
   ],
   "version": {
     "major": 1,
