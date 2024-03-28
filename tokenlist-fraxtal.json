@@ -19,13 +19,6 @@
   "timestamp": "2024-02-15T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xaB4b7c5C9A7C8EbB97877085A6C3550ad4Ed3f97",
-      "name": "FXTL Points",
-      "symbol": "FXTL",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FXTL.png",
-      "tags": ["dex2"]
-    },{
       "address": "0xFC00000000000000000000000000000000000005",
       "name": "Staked Frax Ether",
       "symbol": "sfrxETH",
