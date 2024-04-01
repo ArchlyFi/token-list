@@ -1,0 +1,35 @@
+{
+  "name": "Archly Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
+  "keywords": ["Archly", "Arc", "DeFi"],
+  "tags": {
+    "dex": {
+      "name": "Archly DEX v1",
+      "description": "Tokens that are available on the Archly DEX v1"
+    },
+    "dex2": {
+      "name": "Archly DEX v2",
+      "description": "Tokens that are available on the Archly DEX v2"
+    },
+    "road": {
+      "name": "Archly Rainbow Road",
+      "description": "Tokens that are available on the Rainbow Road"
+    }
+  },
+  "timestamp": "2024-02-15T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xcccccccc7021b32ebb4e8c08314bd62f7c653ec4",
+      "name": "USD Coin (Bridged from Ethereum)",
+      "symbol": "USDzC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
+      "tags": ["dex2"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
