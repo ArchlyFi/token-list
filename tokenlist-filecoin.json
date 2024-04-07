@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 314,
+    "geckoTerminalId": "filecoin"
+  },
   "tokens": [
     {
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
@@ -24,7 +28,9 @@
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/AXLUSDC.svg",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "axlusdc",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

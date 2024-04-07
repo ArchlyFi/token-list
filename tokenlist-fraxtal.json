@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 252,
+    "geckoTerminalId": "fraxtal"
+  },
   "tokens": [
     {
       "address": "0xFC00000000000000000000000000000000000005",
@@ -24,49 +28,63 @@
       "symbol": "sfrxETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SFRXETH.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "staked-frax-ether",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xFc00000000000000000000000000000000000002",
       "name": "Frax Share",
       "symbol": "FXS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FXS.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "frax-share",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xFc00000000000000000000000000000000000001",
       "name": "Frax",
       "symbol": "Frax",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "frax",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xfc00000000000000000000000000000000000008",
       "name": "Staked Frax",
       "symbol": "sFRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SFRAX.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "staked-frax",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xfC00000000000000000000000000000000000007",
       "name": "Frax Bitcoin",
       "symbol": "frxBTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xFc00000000000000000000000000000000000003",
       "name": "Frax Price Index",
       "symbol": "FPI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FPI.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "frax-price-index",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xfc00000000000000000000000000000000000004",
       "name": "Frax Price Index Share",
       "symbol": "FPIS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FPIS.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "frax-price-index-share",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

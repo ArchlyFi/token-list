@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 245022934,
+    "geckoTerminalId": "neon-evm"
+  },
   "tokens": [
     {
       "address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
@@ -24,28 +28,36 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
       "name": "Wrapped SOL",
       "symbol": "SOL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SOL.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xD4B6520f7Fb78E1EE75639F3376c581a71bcdb0E",
       "name": "Bonk",
       "symbol": "BONK",
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BONK.svg",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 56,
+    "geckoTerminalId": "bsc"
+  },
   "tokens": [
     {
       "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
@@ -24,189 +28,243 @@
       "symbol": "TLOS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TLOS.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "telos",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "tether",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "usd-coin",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "ethereum",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x59FC80cfC1573ff721a05c3Ce10E4514cCC2e3f0",
       "name": "X365",
       "symbol": "X365",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/X365.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xA8CD6E4Bf45724d3ac27f9e31E47Ba4e399A7b52",
       "name": "Tarot",
       "symbol": "TAROT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/TAROT.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "tarot",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xd3c6CEEdD1Cc7bd4304F72B011d53441D631E662",
       "name": "Oath",
       "symbol": "OATH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/OATH.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "oath",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FBOMB.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x098d6F88068e9436762ECA02C1124ac398006473",
       "name": "Y365",
       "symbol": "Y365",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/Y365.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "name": "BUSD",
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BUSD.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "binance-usd",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x2F29Bc0FFAF9bff337b31CBe6CB5Fb3bf12e5840",
       "name": "Dola USD",
       "symbol": "DOLA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DOLA.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "dola-usd",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
       "name": "Elk",
       "symbol": "ELK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ELK.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "elk-finance",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "axlusdc",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
       "name": "USD+",
       "symbol": "USD+",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USD_PLUS.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x2952beb1326acCbB5243725bd4Da2fC937BCa087",
       "name": "Wrapped USDR",
       "symbol": "wUSDR",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDR.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "wrapped-usdr",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/MAI.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "mimatic",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x64048A7eEcF3a2F1BA9e144aAc3D7dB6e58F555e",
       "name": "Frax Ether",
       "symbol": "frxETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRXETH.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "frax-ether",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
       "name": "DEI",
       "symbol": "DEI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DEI.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FRAX.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "frax",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x404460C6A5EdE2D891e8297795264fDe62ADBB75",
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "chainlink",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
       "name": "Liquid Staking BNB",
       "symbol": "BNBx",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/BNBX.png",
-      "tags": ["dex", "dex2"]
+      "tags": ["dex", "dex2"],
+      "coingeckoId": "stader-bnbx",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x99Bae65F02df31f764683F71EE8Af1F4177d38e4",
       "name": "Crytter",
       "symbol": "CRYTTER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/CRYTTER.jpg",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xDAfc45a82C3681D857c6AE36227998190a9B6798",
       "name": "KINDNESS FOR THE SOUL",
       "symbol": "SOUL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/SOUL.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x9Ce84F6A69986a83d92C324df10bC8E64771030f",
       "name": "Chintai Exchange Token",
       "symbol": "CHEX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/CHEX.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "chex-token",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xeCbcE2c13d3A1248deBfD23DCc0558b495916756",
       "name": "DRIPX Token",
       "symbol": "DRIPX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/DRIPX.jpg",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xF30224eB7104aca47235beb3362E331Ece70616A",
       "name": "Wrapped Drip",
       "symbol": "WDRIP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WDRIP.jpg",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "drip-network",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
       "name": "FLOKI",
       "symbol": "FLOKI",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/FLOKI.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "floki",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

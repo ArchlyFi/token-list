@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 43114,
+    "geckoTerminalId": "avax"
+  },
   "tokens": [
     {
       "address": "0x5947BB275c521040051D82396192181b413227A3",
@@ -24,21 +28,28 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "chainlink",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex2"]
+      "tags": ["dex2", "road"],
+      "coingeckoId": "usd-coin",
+      "chainlinkTokenTransferEnabled": true,
+      "chains": [10, 137, 8453, 42161, 43114]
     },{
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "name": "Tether USD",
       "symbol": "USDt",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "tether",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

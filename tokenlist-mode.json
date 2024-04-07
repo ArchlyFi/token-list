@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 34443,
+    "geckoTerminalId": "mode"
+  },
   "tokens": [
     {
       "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
@@ -24,21 +28,27 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "tether",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "usd-coin",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/WBTC.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "wrapped-bitcoin",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 81457,
+    "geckoTerminalId": "blast"
+  },
   "tokens": [
     {
       "address": "0x4300000000000000000000000000000000000003",
@@ -24,7 +28,9 @@
       "symbol": "USDB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDB.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "usdb",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

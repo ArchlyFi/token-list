@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 324,
+    "geckoTerminalId": "zksync"
+  },
   "tokens": [
     {
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
@@ -24,14 +28,18 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "usd-coin",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDT.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "tether",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {

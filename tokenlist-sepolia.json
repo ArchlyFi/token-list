@@ -17,6 +17,10 @@
     }
   },
   "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 11155111,
+    "geckoTerminalId": "sepolia-testnet"
+  },
   "tokens": [
     {
       "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
@@ -24,14 +28,18 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/LINK.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     },{
       "address": "0xBa06043a777652BAF540CcC785EDaFd94eE05b37",
       "name": "Arc v1",
       "symbol": "Arc1",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/arc-logo.png",
-      "tags": ["dex2"]
+      "tags": ["dex2"],
+      "coingeckoId": "",
+      "chainlinkTokenTransferEnabled": false
     }
   ],
   "version": {
