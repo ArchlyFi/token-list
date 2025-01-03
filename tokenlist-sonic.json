@@ -1,0 +1,59 @@
+{
+  "name": "Archly Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
+  "keywords": ["Archly", "Arc", "DeFi"],
+  "tags": {
+    "dex": {
+      "name": "Archly DEX v1",
+      "description": "Tokens that are available on the Archly DEX v1"
+    },
+    "dex2": {
+      "name": "Archly DEX v2",
+      "description": "Tokens that are available on the Archly DEX v2"
+    },
+    "road": {
+      "name": "Archly Rainbow Road",
+      "description": "Tokens that are available on the Rainbow Road"
+    }
+  },
+  "timestamp": "2025-01-02T00:00:00+00:00",
+  "chainInfo": {
+    "id": 146,
+    "geckoTerminalId": "sonic"
+  },
+  "tokens": [
+    {
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "name": "USDC (bridged)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/USDC.png",
+      "tags": ["dex2"],
+      "coingeckoId": "usd-coin",
+      "chainlinkTokenTransferEnabled": false
+    },{
+      "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+      "name": "EURC (bridged)",
+      "symbol": "EURC.e",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/EURC.png",
+      "tags": ["dex2"],
+      "coingeckoId": "euro-coin",
+      "chainlinkTokenTransferEnabled": false
+    },{
+      "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/ETH.png",
+      "tags": ["dex2"],
+      "coingeckoId": "ethereum",
+      "chainlinkTokenTransferEnabled": false
+    }
+],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
