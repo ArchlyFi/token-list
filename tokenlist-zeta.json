@@ -1,0 +1,31 @@
+{
+  "name": "Archly Token List",
+  "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logo.png",
+  "keywords": ["Archly", "Arc", "DeFi"],
+  "tags": {
+    "dex": {
+      "name": "Archly DEX v1",
+      "description": "Tokens that are available on the Archly DEX v1"
+    },
+    "dex2": {
+      "name": "Archly DEX v2",
+      "description": "Tokens that are available on the Archly DEX v2"
+    },
+    "road": {
+      "name": "Archly Rainbow Road",
+      "description": "Tokens that are available on the Rainbow Road"
+    }
+  },
+  "timestamp": "2024-02-15T00:00:00+00:00",
+  "chainInfo": {
+    "id": 7000,
+    "geckoTerminalId": "zetachain"
+  },
+  "tokens": [
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
